@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- my-badges start -->
+<!-- my-badges end -->
+
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=89231080" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=89231080&image_size=auto&color_scheme=dark" width="771" height="auto">
