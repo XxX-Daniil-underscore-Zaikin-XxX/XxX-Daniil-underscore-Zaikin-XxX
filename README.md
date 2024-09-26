@@ -1,4 +1,4 @@
-# XxXDaniil_ZaikinXxX
+# XxX-Daniil-underscore-Zaikin-XxX
 
 
 ![Static Badge](https://img.shields.io/badge/different-reset?label=Built&logo=github&style=flat-square)
