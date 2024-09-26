@@ -28,15 +28,5 @@ Here are some ideas to get you started:
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <!-- my-badges end -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=89231080" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=89231080&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @XxX-Daniil-underscore-Zaikin-XxX" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=89231080&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=89231080&activity_type=all" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=89231080&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="@XxX-Daniil-underscore-Zaikin-XxX's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=89231080&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
-  </picture>
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
