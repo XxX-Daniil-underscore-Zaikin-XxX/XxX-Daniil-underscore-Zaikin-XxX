@@ -1,4 +1,11 @@
 # XxXDaniil_ZaikinXxX
+
+
+![Static Badge](https://img.shields.io/badge/different-reset?label=Built&logo=github&style=flat-square)
+![Static Badge](https://img.shields.io/badge/the%20power%20of%20the%20indominable%20human%20spirit-reset?style=flat-square&label=Made%20With&color=blue&logo=anki)
+![Static Badge](https://img.shields.io/badge/me-reset?style=flat-square&logo=nexusmods&label=Release&color=blue)
+![Static Badge](https://img.shields.io/badge/FAILING-reset?style=flat-square&logo=git&label=Build&color=red)
+
 _bideo ganer and "programmer"_
 
 <!--
@@ -30,3 +37,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=XxX-Daniil-underscore-Zaikin-XxX)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxX-Daniil-underscore-Zaikin-XxX&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
